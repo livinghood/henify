@@ -24,7 +24,7 @@ Som en liten bonus byts även namnet Hans ut mot det alternativa Hens. :D
 
 ## Skapad av
 
-Bonnie Chan ![@livinghood](https://github.com/livinghood)
+Bonnie Chan [@livinghood](https://github.com/livinghood)
 
 ## Licens
 
@@ -45,7 +45,7 @@ As an extra feature, the extension will also transform the Swedish name Hans to 
 
 ## Credits
 
-Bonnie Chan ![@livinghood](https://github.com/livinghood)
+Bonnie Chan [@livinghood](https://github.com/livinghood)
 
 # Licence
 
