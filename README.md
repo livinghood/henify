@@ -18,7 +18,7 @@ Som en liten bonus byts även namnet Hans ut mot det alternativa Hens. :D
 
 ## Installation
 
-1. Klona projektet från github: .
+1. Klona projektet från github: https://github.com/livinghood/henify.
 2. Slå på Utvecklarläget på sidan chrome://extensions i Chrome.
 3. Klicka på "Load unpacked extension" och välj Henify-mappen från steg 1.
 
@@ -38,7 +38,7 @@ As an extra feature, the extension will also transform the Swedish name Hans to 
 
 # Installation
 
-1. Clone the repository: .
+1. Clone the repository: https://github.com/livinghood/henify.
 2. Enable "developer mode" in the chrome://extensions page.
 3. Click "Load unpacked extension" and select the Henify folder
 
